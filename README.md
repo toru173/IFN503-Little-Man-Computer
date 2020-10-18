@@ -3,4 +3,4 @@
 
 This was written as an excercise in creating state machines and a parser/assembler from scratch.
 
-Project status: Complete; meets all assessment requirements
+Project status: Complete; meets all assessment requirements. Parser and Assembler are incomplete
